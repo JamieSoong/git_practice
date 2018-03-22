@@ -1,2 +1,2 @@
 # git_practice
-This a test project for learning git and github.
+This is a test project for learning git and github.
