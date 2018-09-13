@@ -10,3 +10,6 @@ print("This is  a test" + 10*"A")
 
 
 print("OK")
+
+
+print("NG")
