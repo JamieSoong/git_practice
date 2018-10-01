@@ -16,3 +16,5 @@ print("OK")
 
 
 print("NG")
+
+print("add a line on branch master")
