@@ -19,3 +19,5 @@ print("NG")
 
 print("add a line on branch master")
 print("add a line on branch master before pull")
+
+print("add a line on branch master")
